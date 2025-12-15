@@ -2,3 +2,4 @@ node:20.8.1
 node:22.12.0
 mongo:6.0.2
 python:3.9.23
+node:22-alpine
