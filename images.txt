@@ -7,4 +7,4 @@ node:22-alpine
 mysql:8.0
 postgres:15.17
 redis:7.4
-adminer:4
+adminer:4.17.1
