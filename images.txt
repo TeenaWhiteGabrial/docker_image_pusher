@@ -9,3 +9,5 @@ postgres:15.17
 redis:7.4
 adminer:4.17.1
 pgvector/pgvector:pg15
+nats:2.14.1
+minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
