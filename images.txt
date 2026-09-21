@@ -19,5 +19,4 @@ eclipse-temurin:17-jre
 gotenberg/gotenberg:8
 loki:3.7.0
 alloy:1.11.3
-qdrant:1.14.1
-raglite:2.17.0
+
